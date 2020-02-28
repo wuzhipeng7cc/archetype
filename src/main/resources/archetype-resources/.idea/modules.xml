@@ -1,0 +1,15 @@
+#set( $symbol_pound = '#' )
+#set( $symbol_dollar = '$' )
+#set( $symbol_escape = '\' )
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://${symbol_dollar}PROJECT_DIR${symbol_dollar}/.idea/${artifactId}.iml" filepath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/.idea/${artifactId}.iml" />
+      <module fileurl="file://${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-common/${artifactId}-common.iml" filepath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-common/${artifactId}-common.iml" />
+      <module fileurl="file://${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-db/${artifactId}-db.iml" filepath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-db/${artifactId}-db.iml" />
+      <module fileurl="file://${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-exporter/${artifactId}-exporter.iml" filepath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-exporter/${artifactId}-exporter.iml" />
+      <module fileurl="file://${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-web/${artifactId}-web.iml" filepath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-web/${artifactId}-web.iml" />
+    </modules>
+  </component>
+</project>

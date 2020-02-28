@@ -1,0 +1,245 @@
+#set( $symbol_pound = '#' )
+#set( $symbol_dollar = '$' )
+#set( $symbol_escape = '\' )
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="381b620e-b321-4eca-8d61-b670d7303fb2" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="${symbol_dollar}PROJECT_DIR${symbol_dollar}" />
+  </component>
+  <component name="JRebelWorkspace">
+    <option name="jrebelEnabledAutocompile" value="true" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="${symbol_dollar}USER_HOME${symbol_dollar}/develop_tool/apache-maven-3.6.2" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1RekSDwgV3uVaGBcXf7jBf6VJ1g" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="${symbol_dollar}PROJECT_DIR${symbol_dollar}/target/generated-sources/archetype/pom.xml" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="${symbol_dollar}USER_HOME${symbol_dollar}/github/java/spring-cloud-alibaba" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-service/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Main">
+    <configuration name="FileTest.testDelete" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="${artifactId}-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="${package}.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="${package}.test" />
+      <option name="MAIN_CLASS_NAME" value="${package}.test.FileTest" />
+      <option name="METHOD_NAME" value="testDelete" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GithubRepoPageProcessor.testTB" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="${artifactId}-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="${package}.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="${package}.test" />
+      <option name="MAIN_CLASS_NAME" value="${package}.test.GithubRepoPageProcessor" />
+      <option name="METHOD_NAME" value="testTB" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GithubRepoPageProcessor.tiebaTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="${artifactId}-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="${package}.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="${package}.test" />
+      <option name="MAIN_CLASS_NAME" value="${package}.test.GithubRepoPageProcessor" />
+      <option name="METHOD_NAME" value="tiebaTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="${artifactId}-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="${package}.Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.FileTest.testDelete" />
+        <item itemvalue="JUnit.GithubRepoPageProcessor.testTB" />
+        <item itemvalue="JUnit.GithubRepoPageProcessor.tiebaTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <treeState>
+          <expand />
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
+  </component>
+  <component name="SpringBootOptions">
+    <option name="showAdditionalConfigNotification" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="381b620e-b321-4eca-8d61-b670d7303fb2" name="Default Changelist" comment="" />
+      <created>1570034946906</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570034946906</updated>
+      <workItem from="1570034948984" duration="27000" />
+      <workItem from="1570035169464" duration="3203000" />
+      <workItem from="1570061754756" duration="455000" />
+      <workItem from="1570062230754" duration="102000" />
+      <workItem from="1570062350813" duration="543000" />
+      <workItem from="1570062933011" duration="144000" />
+      <workItem from="1570063081770" duration="2000" />
+      <workItem from="1570063141813" duration="100000" />
+      <workItem from="1570063256383" duration="1156000" />
+      <workItem from="1570064463603" duration="21827000" />
+      <workItem from="1570151828266" duration="2069000" />
+      <workItem from="1570160480628" duration="4421000" />
+      <workItem from="1570197873281" duration="28000" />
+      <workItem from="1570199489240" duration="287000" />
+      <workItem from="1570200306311" duration="25000" />
+      <workItem from="1570202989987" duration="1628000" />
+      <workItem from="1570240678706" duration="7000" />
+      <workItem from="1570249177632" duration="155000" />
+      <workItem from="1570267139135" duration="4517000" />
+      <workItem from="1570276219728" duration="1324000" />
+      <workItem from="1570289622026" duration="186000" />
+      <workItem from="1570546225019" duration="112000" />
+      <workItem from="1571064212966" duration="1666000" />
+      <workItem from="1571186785959" duration="6000" />
+      <workItem from="1571229282484" duration="2538000" />
+      <workItem from="1571238379677" duration="1327000" />
+      <workItem from="1571446680258" duration="55000" />
+      <workItem from="1571446754774" duration="915000" />
+      <workItem from="1572879800259" duration="40000" />
+      <workItem from="1577437635621" duration="3022000" />
+      <workItem from="1577444198088" duration="2378000" />
+      <workItem from="1582113136570" duration="50000" />
+      <workItem from="1582592777835" duration="43000" />
+      <workItem from="1582594289155" duration="5963000" />
+      <workItem from="1582707337709" duration="47000" />
+      <workItem from="1582771507566" duration="1719000" />
+      <workItem from="1582773381033" duration="119000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
