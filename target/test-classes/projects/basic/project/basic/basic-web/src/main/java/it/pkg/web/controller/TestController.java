@@ -7,6 +7,7 @@ import org.springframework.cloud.context.config.annotation.RefreshScope;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
+import org.springframework.cache.annotation.Cacheable;
 
 /**
  * author: wzp
@@ -29,7 +30,9 @@ public class TestController {
             @ApiImplicitParam(name="mobile",value="手机号",required=true,paramType="form"),
             @ApiImplicitParam(name="password",value="密码",required=true,paramType="form"),
             @ApiImplicitParam(name="age",value="年龄",required=true,paramType="form",dataType="Integer")
-    })      public String test(@RequestBody Test test, String mobile){
+    })
+    @Cacheable(value="users", key="#mobile")
+    public String test(@RequestBody Test test, String mobile){
         System.out.println(test);
         return String.valueOf(test);
     }
